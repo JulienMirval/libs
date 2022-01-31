@@ -41,7 +41,7 @@
     "eslint-config-cozy-app": "2.1.0",
     "eslint-plugin-jsdoc": "35.1.2",
     "jest": "27.1.0",
-    "lerna": "^3"
+    "lerna": "3.22.1"
   },
   "eslintConfig": {
     "extends": [
